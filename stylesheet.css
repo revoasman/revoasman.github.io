@@ -45,8 +45,9 @@ a {
   margin-bottom: 20px;
 }
 
-.signup {
+.note {
   background-color: #239b76;
+  font-family: arial;
 }
 
 .facebook {
